@@ -1,0 +1,94 @@
+{
+    "meetups": [
+        {
+            "id": 1,
+            "title": "React & React Native (+Flux, +Redux) Side-by-side collaborative development",
+            "projectId": 1
+        },
+        {
+            "id": 2,
+            "title": "Redux, Flux on React & React Native collaborative development",
+            "projectId": 1
+        },
+        {
+            "id": 3,
+            "title": "Angular 2.0",
+            "projectId": 2
+        },
+        {
+            "id": 4,
+            "title": "Angular 2.0 - The Sequel",
+            "projectId": 2
+        },
+        {
+            "id": 5,
+            "title": "Practical ECMAScript 6",
+            "resources": [
+                "https://es6katas.org/"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Common Functional Patterns",
+            "resources": [
+                "https://github.com/wwwdata/Slides/tree/master/Functional%20Javascript",
+                "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "React/React Native (or w/e) Chat Client",
+            "projectId": 3
+        },
+        {
+            "id": 7,
+            "title": "Ember Js - Guest Star Mike North"
+        },
+        {
+            "id": 7,
+            "title": "Node.js programming a networked AI",
+            "projectId": 5
+        },
+        {
+            "id": 8,
+            "title": "JSCN-CLI: The JavaScript Coding Nights App",
+            "projectId": 6,
+            "resources": [
+                "https://github.com/tj/commander.js"
+            ]
+        }
+
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "name": "React Tic Tac Toe",
+            "remote": "https://github.com/jscodingnights/react-tic-tac-toe.git"
+        },
+        {
+            "id": 2,
+            "name": "Angular Tic Tac Toe",
+            "remote": "https://github.com/jscodingnights/angular-tic-tac-toe.git"
+        },
+        {
+            "id": 3,
+            "name": "Socket IO Chat - Client",
+            "remote": "https://github.com/jscodingnights/chat-client.git"
+        },
+        {
+            "id": 4,
+            "name": "Socket IO Chat - Server",
+            "remote": "https://github.com/jscodingnights/chat-server.git"
+        },
+        {
+            "id": 5,
+            "name": "Valhalla",
+            "remote": "https://github.com/Creosteanu/valhalla"
+        },
+        {
+            "id": 6,
+            "name": "JSCN-CLI",
+            "remote": "https://github.com/jscodingnights/jscn-cli.git"
+        }
+    ]
+}
